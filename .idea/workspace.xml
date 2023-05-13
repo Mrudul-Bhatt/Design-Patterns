@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b81735b-5116-4f68-aaec-2e0ab122692c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level1/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level1/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level1/RedheadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/DecoyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/RedheadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/DecoyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/Quackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/RedheadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Fly/DoesNotFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Fly/FlyBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Fly/FlyWithRocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Fly/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Quack/NoQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Quack/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Quack/QuackBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Quack/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/DecoyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/RedheadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/Behaviours/WeaponsBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/CharacterTypes/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/CharacterTypes/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/CharacterTypes/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/PlayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/WeaponTypes/BowAndArrowBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/WeaponTypes/KnifeBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/WeaponTypes/SwordBehaviour.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectId" id="2Phl3awZ3qrqdQJTOYiGe7h0CSe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/mrudul/Desktop/practice/dp/src/StrategyPattern/Level4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/StrategyPattern/Level4" />
+      <recent name="$PROJECT_DIR$/src/StrategyPattern/Level3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="StrategyPattern.Level5_DesignPuzzle.WeaponTypes" />
+      <recent name="StrategyPattern.Level5_DesignPuzzle.CharacterTypes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="dp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyPattern.Level1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrategyPattern.Level1.Main" />
+      <module name="dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StrategyPattern.Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyPattern.Level2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrategyPattern.Level2.Main" />
+      <module name="dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StrategyPattern.Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StrategyPattern.Level2.Main" />
+        <item itemvalue="Application.StrategyPattern.Level1.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b81735b-5116-4f68-aaec-2e0ab122692c" name="Changes" comment="" />
+      <created>1683916997503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683916997503</updated>
+      <workItem from="1683916998975" duration="3839000" />
+      <workItem from="1683947103987" duration="13000" />
+      <workItem from="1683948118401" duration="383000" />
+      <workItem from="1683948509150" duration="4668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
