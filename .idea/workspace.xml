@@ -5,56 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b81735b-5116-4f68-aaec-2e0ab122692c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level1/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level1/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level1/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/DecoyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level2/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/DecoyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/Quackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level3/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Fly/DoesNotFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Fly/FlyBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Fly/FlyWithRocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Fly/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Quack/NoQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Quack/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Quack/QuackBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Behaviours/Quack/Squeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/DecoyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level4/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/Behaviours/WeaponsBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/CharacterTypes/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/CharacterTypes/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/CharacterTypes/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/Characters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/PlayGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/WeaponTypes/BowAndArrowBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/WeaponTypes/KnifeBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Level5_DesignPuzzle/WeaponTypes/SwordBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level1/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level1/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level1/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level2/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level2/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level2/DarkRoastWithMocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level2/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level2/EspressoWithSteamedMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level3/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level3/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level3/DarkRoastWithMocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level3/EspressoWithMochaAndMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level3/EspressoWithSteamedMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/StarbuzzCofee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/Whip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,28 +59,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "code.cleanup.on.save": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mrudul/Desktop/practice/dp/src/StrategyPattern/Level4",
+    "last_opened_file_path": "/Users/mrudul/Desktop/practice/dp/src/DecoratorPattern/Level3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "actions.on.save",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/DecoratorPattern/Level3" />
       <recent name="$PROJECT_DIR$/src/StrategyPattern/Level4" />
       <recent name="$PROJECT_DIR$/src/StrategyPattern/Level3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DecoratorPattern.Level4" />
+      <recent name="DecoratorPattern.Level3" />
       <recent name="StrategyPattern.Level5_DesignPuzzle.WeaponTypes" />
       <recent name="StrategyPattern.Level5_DesignPuzzle.CharacterTypes" />
     </key>
@@ -150,9 +125,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.StrategyPattern.Level2.Main" />
         <item itemvalue="Application.StrategyPattern.Level1.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -168,11 +143,15 @@
       <workItem from="1683947103987" duration="13000" />
       <workItem from="1683948118401" duration="383000" />
       <workItem from="1683948509150" duration="4668000" />
+      <workItem from="1684078850176" duration="3565000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
