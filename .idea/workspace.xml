@@ -5,26 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b81735b-5116-4f68-aaec-2e0ab122692c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level1/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level1/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level1/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level2/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level2/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level2/DarkRoastWithMocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level2/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level2/EspressoWithSteamedMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level3/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level3/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level3/DarkRoastWithMocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level3/EspressoWithMochaAndMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level3/EspressoWithSteamedMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/StarbuzzCofee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Level4/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level1/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level1/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level1/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level1/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level1/VeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/SimplePizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/VeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/ChicagoCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/NYCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/PizzaStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +64,7 @@
     "WebServerToolWindowFactoryState": "false",
     "code.cleanup.on.save": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mrudul/Desktop/practice/dp/src/DecoratorPattern/Level3",
+    "last_opened_file_path": "/Users/mrudul/Desktop/practice/dp/src/FactoryPattern/Level3_Franchise",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,11 +76,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise" />
+      <recent name="$PROJECT_DIR$/src/FactoryPattern/Level2" />
       <recent name="$PROJECT_DIR$/src/DecoratorPattern/Level3" />
       <recent name="$PROJECT_DIR$/src/StrategyPattern/Level4" />
       <recent name="$PROJECT_DIR$/src/StrategyPattern/Level3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FactoryPattern.Level3_Franchise" />
       <recent name="DecoratorPattern.Level4" />
       <recent name="DecoratorPattern.Level3" />
       <recent name="StrategyPattern.Level5_DesignPuzzle.WeaponTypes" />
@@ -143,7 +144,8 @@
       <workItem from="1683947103987" duration="13000" />
       <workItem from="1683948118401" duration="383000" />
       <workItem from="1683948509150" duration="4668000" />
-      <workItem from="1684078850176" duration="3565000" />
+      <workItem from="1684078850176" duration="4199000" />
+      <workItem from="1684194798511" duration="6385000" />
     </task>
     <servers />
   </component>
