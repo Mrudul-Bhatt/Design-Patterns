@@ -5,24 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b81735b-5116-4f68-aaec-2e0ab122692c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level1/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level1/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level1/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level1/VeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/SimplePizzaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level2/VeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/ChicagoCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/ChicagoPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/NYCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/NYPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/FactoryTypes/NYPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientTypes/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientTypes/Clams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientTypes/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientTypes/Pepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientTypes/Sauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientTypes/Veggies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientsRegional/NYIngredients/FreshClams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientsRegional/NYIngredients/MarinaraSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientsRegional/NYIngredients/NYVeggies/Garlic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientsRegional/NYIngredients/NYVeggies/Mushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientsRegional/NYIngredients/NYVeggies/Onion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientsRegional/NYIngredients/NYVeggies/RedPepper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientsRegional/NYIngredients/ReggianoCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientsRegional/NYIngredients/SlicedPepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/IngredientsRegional/NYIngredients/ThinCrustDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/PizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/PizzaTypes/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/PizzaTypes/ClamsPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients/StoreTypes/NYPizzaStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +69,7 @@
     "WebServerToolWindowFactoryState": "false",
     "code.cleanup.on.save": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mrudul/Desktop/practice/dp/src/FactoryPattern/Level3_Franchise",
+    "last_opened_file_path": "/Users/mrudul/Desktop/practice/dp/src/FactoryPattern/Level4_Ingredients",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,12 +80,15 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="FactoryPattern.Level4_Ingredients" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/FactoryPattern/Level4_Ingredients" />
       <recent name="$PROJECT_DIR$/src/FactoryPattern/Level3_Franchise" />
       <recent name="$PROJECT_DIR$/src/FactoryPattern/Level2" />
       <recent name="$PROJECT_DIR$/src/DecoratorPattern/Level3" />
       <recent name="$PROJECT_DIR$/src/StrategyPattern/Level4" />
-      <recent name="$PROJECT_DIR$/src/StrategyPattern/Level3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="FactoryPattern.Level3_Franchise" />
@@ -145,7 +153,9 @@
       <workItem from="1683948118401" duration="383000" />
       <workItem from="1683948509150" duration="4668000" />
       <workItem from="1684078850176" duration="4199000" />
-      <workItem from="1684194798511" duration="6385000" />
+      <workItem from="1684194798511" duration="6499000" />
+      <workItem from="1684287773180" duration="1302000" />
+      <workItem from="1684374553916" duration="4584000" />
     </task>
     <servers />
   </component>
