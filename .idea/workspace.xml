@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b81735b-5116-4f68-aaec-2e0ab122692c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SingletonPattern/DoubleCheckedSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingletonPattern/EagerSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingletonPattern/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingletonPattern/SynchronizedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/GarageDoorOpenCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/RemoteControlClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/SimpleRemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/VendorClasses/GarageDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/VendorClasses/Light.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +58,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -137,12 +141,26 @@
       <workItem from="1684194798511" duration="6499000" />
       <workItem from="1684287773180" duration="1302000" />
       <workItem from="1684374553916" duration="4584000" />
-      <workItem from="1684461534666" duration="641000" />
+      <workItem from="1684461534666" duration="1513000" />
+      <workItem from="1684566249680" duration="67000" />
+      <workItem from="1684566344124" duration="1782000" />
+      <workItem from="1684573491779" duration="1078000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
