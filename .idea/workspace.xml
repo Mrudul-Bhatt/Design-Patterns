@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b81735b-5116-4f68-aaec-2e0ab122692c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/GarageDoorOpenCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/RemoteControlClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/SimpleRemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/VendorClasses/GarageDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/VendorClasses/Light.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/PancakeMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/PancakeMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/PancakeMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/PancakeMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/Waitress.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +52,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/mrudul/Desktop/practice/dp/src/FactoryPattern/Level4_Ingredients&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/mrudul/Desktop/practice/dp/src/FactoryPattern/Level4_Ingredients",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="FactoryPattern.Level4_Ingredients" />
@@ -145,6 +153,7 @@
       <workItem from="1684566249680" duration="67000" />
       <workItem from="1684566344124" duration="1782000" />
       <workItem from="1684573491779" duration="1078000" />
+      <workItem from="1684897757504" duration="82000" />
     </task>
     <servers />
   </component>
