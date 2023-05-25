@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b81735b-5116-4f68-aaec-2e0ab122692c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/DinerMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/DinerMenuIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/MenuTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/PancakeMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/PancakeMenuIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level1/Waitress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/DinerMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/DinerMenuIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/MenuTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/PancakeMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/PancakeMenuIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorAndCompositePattern/Level2/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +138,7 @@
       <workItem from="1684566249680" duration="67000" />
       <workItem from="1684566344124" duration="1782000" />
       <workItem from="1684573491779" duration="1078000" />
-      <workItem from="1684897757504" duration="82000" />
+      <workItem from="1684897757504" duration="412000" />
     </task>
     <servers />
   </component>
