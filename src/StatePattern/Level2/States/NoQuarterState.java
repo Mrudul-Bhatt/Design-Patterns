@@ -1,6 +1,9 @@
-package StatePattern.Level2;
+package StatePattern.Level2.States;
 
-public class NoQuarterState implements State {
+import StatePattern.Level2.GumballMachine;
+import StatePattern.Level2.IState;
+
+public class NoQuarterState implements IState {
     GumballMachine gumballMachine;
 
     public NoQuarterState(GumballMachine gumballMachine) {

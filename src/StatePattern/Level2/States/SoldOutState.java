@@ -1,6 +1,9 @@
-package StatePattern.Level2;
+package StatePattern.Level2.States;
 
-public class SoldOutState implements State {
+import StatePattern.Level2.GumballMachine;
+import StatePattern.Level2.IState;
+
+public class SoldOutState implements IState {
     GumballMachine gumballMachine;
 
     public SoldOutState(GumballMachine gumballMachine) {

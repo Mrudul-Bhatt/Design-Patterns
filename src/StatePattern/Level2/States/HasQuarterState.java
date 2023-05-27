@@ -1,6 +1,12 @@
-package StatePattern.Level2;
+package StatePattern.Level2.States;
 
-public class HasQuarterState implements State {
+import java.util.Random;
+
+import StatePattern.Level2.GumballMachine;
+import StatePattern.Level2.IState;
+
+public class HasQuarterState implements IState {
+    Random randomWinner = new Random(System.currentTimeMillis());
     GumballMachine gumballMachine;
 
     public HasQuarterState(GumballMachine gumballMachine) {
@@ -21,6 +27,14 @@ public class HasQuarterState implements State {
     @Override
     public void turnCrank() {
         System.out.println("You turned...");
+        int winner = randomWinner.nextInt(10);
+
+        if ((winner == 0) && (gumballMachine.getCount() > 1)) {
+            gumballMachine.setState(gumballMachine.getWinnerState());
+        } else {
+            gumballMachine.setState(gumballMachine.getSoldState());
+        }
+
         gumballMachine.setState(gumballMachine.getSoldState());
     }
 

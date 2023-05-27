@@ -1,6 +1,6 @@
 package StatePattern.Level2;
 
-public interface State {
+public interface IState {
     public void insertQuarter();
 
     public void ejectQuarter();

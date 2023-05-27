@@ -1,4 +1,4 @@
-package IteratorAndCompositePattern.Level1;
+package IteratorPattern.Level1;
 
 public class MenuItem {
     String name;

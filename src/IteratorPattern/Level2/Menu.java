@@ -1,4 +1,4 @@
-package IteratorAndCompositePattern.Level2;
+package IteratorPattern.Level2;
 
 import java.util.Iterator;
 

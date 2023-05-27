@@ -1,9 +1,8 @@
-package IteratorAndCompositePattern.Level2;
+package IteratorPattern.Level1;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
-public class PancakeMenu implements Menu{
+public class PancakeMenu {
     ArrayList<MenuItem> menuItems;
 
     public PancakeMenu() {
@@ -24,7 +23,6 @@ public class PancakeMenu implements Menu{
     // return menuItems;
     // }
 
-    @Override
     public Iterator createIterator() {
         return new PancakeMenuIterator(menuItems);
     }
