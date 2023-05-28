@@ -1,12 +1,12 @@
 package CompoundPattern.Level5_CompositePattern;
 
+import CompoundPattern.Level1_Strategy.IQuackable;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 
-import CompoundPattern.Level1_Strategy.IQuackable;
-
 public class Flock implements IQuackable {
-    ArrayList<IQuackable> quackers = new ArrayList<IQuackable>();
+    ArrayList<IQuackable> quackers = new ArrayList<>();
 
     public void add(IQuackable quacker) {
         quackers.add(quacker);
