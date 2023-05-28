@@ -15,9 +15,7 @@ public class Flock implements IQuackable {
     }
 
     public void quack() {
-        Iterator<IQuackable> iterator = ducks.iterator();
-        while (iterator.hasNext()) {
-            IQuackable duck = iterator.next();
+        for (IQuackable duck : ducks) {
             duck.quack();
         }
     }
