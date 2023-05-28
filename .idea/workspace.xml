@@ -5,6 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b81735b-5116-4f68-aaec-2e0ab122692c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level1_Strategy/DuckCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level1_Strategy/DuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level1_Strategy/IQuackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level1_Strategy/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level1_Strategy/RedheadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level1_Strategy/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level2_Adapter/DuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level2_Adapter/Goose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level2_Adapter/GooseAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level3_Decorator/DuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level3_Decorator/QuackCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level4_AbstractFactory/AbstractDuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level4_AbstractFactory/CountingDuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level4_AbstractFactory/DuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level4_AbstractFactory/DuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level5_CompositePattern/DuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level5_CompositePattern/Flock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/AbstractDuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/DuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Ducks/DuckCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Ducks/GooseAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Ducks/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Ducks/RedheadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Ducks/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Factories/CountingDuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Factories/DuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Flock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Interface/IObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Interface/IQuackSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Interface/IQuackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/QuackCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Quackologist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundPattern/Level6_Observer/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +86,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,30 +102,56 @@
       <recent name="$PROJECT_DIR$/src/StrategyPattern/Level4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CompoundPattern.Level6_Observer" />
       <recent name="FactoryPattern.Level3_Franchise" />
       <recent name="DecoratorPattern.Level4" />
       <recent name="DecoratorPattern.Level3" />
       <recent name="StrategyPattern.Level5_DesignPuzzle.WeaponTypes" />
-      <recent name="StrategyPattern.Level5_DesignPuzzle.CharacterTypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.CompoundPattern.Level6_Observer.DuckSimulator">
+    <configuration name="CompoundPattern.Level5_CompositePattern.DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompoundPattern.Level5_CompositePattern.DuckSimulator" />
       <module name="dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CompoundPattern.Level5_CompositePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrategyPattern.Level1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StrategyPattern.Level1.Main" />
+    <configuration name="CompoundPattern.Level6_Observer.DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompoundPattern.Level6_Observer.DuckSimulator" />
       <module name="dp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StrategyPattern.Level1.*" />
+          <option name="PATTERN" value="CompoundPattern.Level6_Observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompoundPattern.Level4_AbstractFactory.DuckSimulator" />
+      <module name="dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CompoundPattern.Level4_AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="dp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,9 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompoundPattern.Level6_Observer.DuckSimulator" />
+        <item itemvalue="Application.CompoundPattern.Level5_CompositePattern.DuckSimulator" />
+        <item itemvalue="Application.DuckSimulator" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StrategyPattern.Level2.Main" />
-        <item itemvalue="Application.StrategyPattern.Level1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +200,7 @@
       <workItem from="1684566344124" duration="1782000" />
       <workItem from="1684573491779" duration="1078000" />
       <workItem from="1684897757504" duration="412000" />
+      <workItem from="1685262295694" duration="5040000" />
     </task>
     <servers />
   </component>
